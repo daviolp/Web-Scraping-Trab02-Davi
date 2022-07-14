@@ -1,0 +1,71 @@
+MLC,MN,MC,Your computer slows down.,Your screen is inundated with annoying ads.,Your system crashes. ,You notice a mysterious loss of disk space.,There’s a weird increase in your system’s Internet activity.,Your browser settings change.,Your antivirus product stops working,You lose access to your files or your entire computer.,Advertisements appear in places they shouldn’t be.,Your web browser’s homepage has mysteriously changed without your permission.,Web pages that you typically visit are not displaying properly.,Your web browser slows to a crawl.,"New toolbars, extensions, or plugins suddenly populate your browser.",Your Mac starts automatically installing unwanted software applications.,Website links redirect to sites different from what you expected.,Your browser crashes.,Email errático,Clicou no primeiro link de pesquisa e notou algo de estranho depois.,"Notar vários erros de ortografia e gramática, enviado de um site aparentemente confiável.","Você perdeu acesso parcial ao teclado, mouse ou touchpad do seu computador.",Seus arquivos estão criptografados e estão com uma extensão diferente.,"Você recebeu e clicou em um e-mail e após isso, tem uma tela pedindo dinheiro para você."
+0,1,Stuxnet,Virus,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1,1,Melissa,Virus,1,1,1,1,1,1,1,1,0,1,0,1,1,0,0,1,1,0,0,0,0,0
+2,1,Chernobyl,Virus,1,0,1,1,1,0,1,1,0,1,1,1,0,0,0,1,0,0,0,1,0,0
+3,1, Anna Kournikova ,Virus,1,0,1,1,1,0,1,1,0,1,1,1,0,0,0,1,0,0,0,1,0,0
+4,1, I love you ,Virus,1,0,1,1,1,0,1,1,0,1,1,1,0,0,0,1,1,0,0,1,0,0
+5,1,Flame ,Virus,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+6,1,Morris Worm,Virus,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+7,1,Nimda,Virus,1,0,1,1,1,0,1,1,0,1,1,1,0,0,0,1,1,0,0,0,0,0
+8,1,SQL Slammer,Virus,1,0,1,1,1,1,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0
+9,1,CryptoLocker,Virus,1,0,1,1,0,0,1,1,0,1,1,1,0,0,1,1,1,1,1,1,1,1
+10,1,Conficker,Virus,1,0,1,1,1,1,1,1,0,1,1,1,0,0,1,1,0,1,0,0,0,0
+11,1,Tinba,Virus,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0
+12,1,Welchia,Virus,1,0,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,0,0,0,0
+13,1,Shlayer,Virus,1,0,0,0,1,0,1,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0
+14,2,Fireball,Adware,1,1,0,0,0,1,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0
+15,2,Appearch,Adware,1,1,0,0,0,1,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0
+16,2,DollarRevenue,Adware,1,1,0,0,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0
+17,2,DeskAd,Adware,1,1,0,0,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0
+18,2,BuzzSearch,Adware,1,1,0,0,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0
+19,2,ChatZum,Adware,1,1,0,0,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0
+20,2,Clickorati,Adware,1,1,0,0,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0
+21,2,Dalesearch,Adware,1,1,0,0,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0
+22,2,Deal Boat,Adware,1,1,0,0,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0
+23,2,Deal Vault,Adware,0,1,0,0,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0
+24,2,DomaIQ,Adware,0,1,0,0,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0
+25,2,GadgetBox Search,Adware,0,1,0,0,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0
+26,2,Genieo Search,Adware,0,1,0,0,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0
+27,2,GetSavin,Adware,0,1,0,0,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0
+28,3,CoolWebSearch,Spyware,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+29,3,Gator,Spyware,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+30,3,Keyloggers,Spyware,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+31,3,Internet Optimizer,Spyware,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+32,3,TIBS Dialer,Spyware,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+33,3,Zlob,Spyware,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+34,3,Advanced Keylogger,Spyware,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+35,3,FinSpy (aka FinFisher),Spyware,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+36,3,Gator (GAIN),Spyware,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+37,3,GO Keyboard,Spyware,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+38,3,HawkEye,Spyware,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+39,3,HuntBar,Spyware,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+40,3,Look2Me,Spyware,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+41,3,Pegasus,Spyware,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+42,4,Spear phishing,Phishing,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0
+43,4,Clone phishing,Phishing,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0
+44,4,419/scams nigerianos ,Phishing,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0
+45,4,Phone phishing,Phishing,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0
+46,4,Whaling,Phishing,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0
+47,4,The Fake Invoice Scam,Phishing,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0
+48,4,Email Account Upgrade Scam,Phishing,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0
+49,4,Advance-fee Scam,Phishing,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0
+50,4,Google Docs Scam,Phishing,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0
+51,4,PayPal Scam,Phishing,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0
+52,4,Message From HR Scam,Phishing,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0
+53,4,Dropbox Scam,Phishing,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0
+54,4,The Council Tax Scam,Phishing,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0
+55,4,Unusual Activity Scam,Phishing,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0
+56,5,Locky,Ransomware,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1
+57,5,WannaCry,Ransomware,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1
+58,5,Bad Rabbit,Ransomware,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1
+59,5,Ryuk,Ransomware,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1
+60,5,Shade/Troldesh,Ransomware,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1
+61,5,Jigsaw,Ransomware,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1
+62,5,CryptoLocker,Ransomware,1,0,1,1,0,0,1,1,0,1,1,1,0,0,1,1,1,1,1,1,1,1
+63,5,Petya,Ransomware,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1
+64,5,GoldenEye,Ransomware,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1
+65,5,GandCrab,Ransomware,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1
+66,5,B0r0nt0k,Ransomware,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1
+67,5,Ransomware Dharma Brrr,Ransomware,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1
+68,5,Ransomware FAIR RANSOMWARE,Ransomware,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1
+69,5,Ransomware MADO,Ransomware,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1
